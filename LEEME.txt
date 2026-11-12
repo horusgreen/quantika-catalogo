@@ -1,0 +1,8 @@
+QUANTIKA · CATÁLOGO NAVIDAD V3
+
+PUBLICACIÓN: Sube a la raíz de GitHub Pages: index.html, app.js, style.css, catalog.json y assets/ completa.
+No subas ADMINISTRADOR_PRIVADO/ porque el repositorio es público.
+
+ADMINISTRACIÓN: En tu PC abre ADMINISTRADOR_PRIVADO/editor.html y sigue su LEEME_ADMIN.txt.
+
+Esta versión conserva el diseño Instagram y mejora los contadores dinámicos.
