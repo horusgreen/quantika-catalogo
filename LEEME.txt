@@ -1,0 +1,22 @@
+QUANTIKA ESTUDIO · CATÁLOGO NAVIDAD A LA CALEÑA 2026
+VERSIÓN 2 — PERFIL + CARRUSEL DE 3
+
+CONTENIDO:
+- index.html: tienda nueva
+- style.css: diseño visual
+- app.js: carrusel, filtros, modal, carrito y envío de pedido a WhatsApp
+- catalog.json: 10 productos, tarifas por volumen y WhatsApp
+- assets/: imágenes originales de la colección y logo Quantika aportado por el propietario
+
+PARA REEMPLAZAR LA WEB EN GITHUB PAGES:
+1. Abre https://github.com/horusgreen/quantika-catalogo
+2. Puedes cargar y sobrescribir los archivos del repositorio utilizando GitHub Desktop o git desde tu equipo.
+3. En la web de GitHub: sube los archivos nuevos a la raíz. Si una carga no te permite reemplazar uno existente, edita o elimina el archivo anterior antes de subir el nuevo.
+4. Conserva el directorio assets/ completo, con las imágenes dentro. No subas únicamente los .webp a la raíz.
+5. IMPORTANTE: index.html, app.js, style.css y catalog.json deben estar en la raíz de la rama publicada.
+6. Confirma que Settings > Pages publique la rama main, carpeta /(root).
+7. Tras publicarse, abre https://horusgreen.github.io/quantika-catalogo/ y actualiza con Ctrl+F5.
+
+No publiques admin-local/editor.html: el editor previo es exclusivamente local.
+Esta tienda es estática: recibe pedidos por WhatsApp, no cobra ni registra automáticamente pagos en línea.
+El símbolo original se usa sin redibujarlo, a partir del PNG suministrado; para visualizarlo sobre fondo oscuro se convirtió el negro de fondo en transparencia conservando los trazos blancos.
