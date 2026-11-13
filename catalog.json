@@ -1,0 +1,304 @@
+{
+  "products": [
+    {
+      "id": "01",
+      "name": "En Cali la Navidad se baila",
+      "subtitle": "Salsa, fiesta y tradición",
+      "category": "Tradición",
+      "active": true,
+      "image": "assets/ref-01.webp",
+      "pricingMode": "general"
+    },
+    {
+      "id": "02",
+      "name": "Se armó el combo navideño",
+      "subtitle": "La luz de nuestras tradiciones",
+      "category": "Inspiración",
+      "active": true,
+      "image": "assets/ref-02.webp",
+      "pricingMode": "general"
+    },
+    {
+      "id": "03",
+      "name": "Personajes Navideños",
+      "subtitle": "Navidad salsera -apliques en mangas y pecho en DTF",
+      "category": "Tradición",
+      "active": true,
+      "image": "assets/ref-03.webp",
+      "pricingMode": "general"
+    },
+    {
+      "id": "04",
+      "name": "campanero navideño",
+      "subtitle": "Navidad salsera",
+      "category": "Tradición",
+      "active": true,
+      "image": "assets/ref-04.webp",
+      "pricingMode": "general"
+    },
+    {
+      "id": "05",
+      "name": "combo navideño",
+      "subtitle": "Navidad tradicional",
+      "category": "Humor",
+      "active": true,
+      "image": "assets/ref-05.webp",
+      "pricingMode": "general"
+    },
+    {
+      "id": "06",
+      "name": "Personajes Navideños",
+      "subtitle": "1 aplique en dtf",
+      "category": "Salsa",
+      "active": true,
+      "image": "assets/ref-06.webp",
+      "pricingMode": "general"
+    },
+    {
+      "id": "07",
+      "name": "Navidad caleñita, ve",
+      "subtitle": "Fiesta de barrio y alegría",
+      "category": "Tradición",
+      "active": true,
+      "image": "assets/ref-07.webp",
+      "pricingMode": "general"
+    },
+    {
+      "id": "08",
+      "name": "Yo después resuelvo",
+      "subtitle": "Navidad con humor colombiano",
+      "category": "Humor",
+      "active": true,
+      "image": "assets/ref-08.webp",
+      "pricingMode": "general"
+    },
+    {
+      "id": "09",
+      "name": "Navidad caleñita, ve",
+      "subtitle": "Fiesta de barrio y alegría",
+      "category": "Tradición",
+      "active": true,
+      "image": "assets/ref-09.webp",
+      "pricingMode": "general"
+    },
+    {
+      "id": "10",
+      "name": "En Cali la Navidad tiene sabor",
+      "subtitle": "La tradición también se baila",
+      "category": "Salsa",
+      "active": true,
+      "image": "assets/ref-10.webp",
+      "pricingMode": "general"
+    },
+    {
+      "id": "11",
+      "name": "Rodolfo y sus buñuelos",
+      "subtitle": "Navidad tradicional",
+      "category": "Tradición",
+      "active": true,
+      "image": "assets/ref-11.webp",
+      "pricingMode": "custom",
+      "customPricing": [
+        {
+          "min": 1,
+          "max": 2,
+          "price": 49000
+        },
+        {
+          "min": 3,
+          "max": 5,
+          "price": 45325
+        },
+        {
+          "min": 6,
+          "max": 24,
+          "price": 43488
+        },
+        {
+          "min": 25,
+          "max": 99,
+          "price": 42875
+        },
+        {
+          "min": 100,
+          "max": null,
+          "price": 41650
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Personajes Navideños",
+      "subtitle": "Navidad salsera -apliques en mangas y pecho en DTF",
+      "category": "Tradición",
+      "active": true,
+      "image": "assets/ref-12.webp",
+      "pricingMode": "custom",
+      "customPricing": [
+        {
+          "min": 1,
+          "max": 2,
+          "price": 49000
+        },
+        {
+          "min": 3,
+          "max": 5,
+          "price": 45325
+        },
+        {
+          "min": 6,
+          "max": 24,
+          "price": 43488
+        },
+        {
+          "min": 25,
+          "max": 99,
+          "price": 42875
+        },
+        {
+          "min": 100,
+          "max": null,
+          "price": 41650
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "combo navideño",
+      "subtitle": "Navidad tradicional",
+      "category": "Tradición",
+      "active": true,
+      "image": "assets/ref-13.webp",
+      "pricingMode": "custom",
+      "customPricing": [
+        {
+          "min": 1,
+          "max": 2,
+          "price": 49000
+        },
+        {
+          "min": 3,
+          "max": 5,
+          "price": 45325
+        },
+        {
+          "min": 6,
+          "max": 24,
+          "price": 43488
+        },
+        {
+          "min": 25,
+          "max": 99,
+          "price": 42875
+        },
+        {
+          "min": 100,
+          "max": null,
+          "price": 41650
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "campanero navideño",
+      "subtitle": "Navidad salsera",
+      "category": "Tradición",
+      "active": true,
+      "image": "assets/ref-14.webp",
+      "pricingMode": "custom",
+      "customPricing": [
+        {
+          "min": 1,
+          "max": 2,
+          "price": 49000
+        },
+        {
+          "min": 3,
+          "max": 5,
+          "price": 45325
+        },
+        {
+          "min": 6,
+          "max": 24,
+          "price": 43488
+        },
+        {
+          "min": 25,
+          "max": 99,
+          "price": 42875
+        },
+        {
+          "min": 100,
+          "max": null,
+          "price": 41650
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Noel feliz navidad",
+      "subtitle": "Navidad tradicional",
+      "category": "Tradición",
+      "active": true,
+      "image": "assets/ref-15.webp",
+      "pricingMode": "custom",
+      "customPricing": [
+        {
+          "min": 1,
+          "max": 2,
+          "price": 49000
+        },
+        {
+          "min": 3,
+          "max": 5,
+          "price": 45325
+        },
+        {
+          "min": 6,
+          "max": 24,
+          "price": 43488
+        },
+        {
+          "min": 25,
+          "max": 99,
+          "price": 42875
+        },
+        {
+          "min": 100,
+          "max": null,
+          "price": 41650
+        }
+      ]
+    }
+  ],
+  "pricing": [
+    {
+      "min": 1,
+      "max": 2,
+      "price": 40000
+    },
+    {
+      "min": 3,
+      "max": 5,
+      "price": 37000
+    },
+    {
+      "min": 6,
+      "max": 24,
+      "price": 35500
+    },
+    {
+      "min": 25,
+      "max": 99,
+      "price": 35000
+    },
+    {
+      "min": 100,
+      "max": null,
+      "price": 34000
+    }
+  ],
+  "whatsapp": "573503823010",
+  "instagram": "https://www.instagram.com/quantikaestudio/",
+  "tiktok": "https://www.tiktok.com/@quantikaestudio"
+}
